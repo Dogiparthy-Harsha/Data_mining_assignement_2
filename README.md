@@ -1,2 +1,6 @@
 # Data_mining_assignement_2
-Index page for colab links and youtube playlist
+
+Use this link to get all the colabs and youtube playlist link for this assignment: 
+
+
+https://dogiparthy-harsha.github.io/Data_mining_assignement_2/
